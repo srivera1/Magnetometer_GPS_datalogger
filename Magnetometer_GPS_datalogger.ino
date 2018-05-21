@@ -27,8 +27,10 @@
    *99WE
    *99SP         -- write to the eeprom
 
+
+   In this sketch,
    about 20 samples for x, y and z axes and the
-   gps position are save to the sdcard 1 time
+   gps position are saved to the sdcard 1 time
    per second.
 
    I am polling the data in binary format. I tried
